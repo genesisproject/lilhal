@@ -1,4 +1,4 @@
 #!/bin/zsh
 source .populate_credentials
-export PORT=1337
+export PORT=7267
 export HUBOT_GITHUB_EVENT_NOTIFIER_TYPES=pull_request,issue,push
